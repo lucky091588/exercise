@@ -44,7 +44,7 @@ $(document).ready(function(){
   $fileUpload.on('submit', function(event){
     event.preventDefault();
     $.ajax({
-      url:"http://localhost/joinery1/inc/import.php", // url of the import function
+      url:"http://ldinawanao.com/exercise/inc/import.php", // url of the import function (change this to your url path)
       method:"POST",
       data:new FormData(this),
       dataType:'json',
