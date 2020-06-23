@@ -1,0 +1,22 @@
+.body-wrapper {
+  padding: 40px 0;
+}
+
+.upload {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.upload-input {
+  padding-top: 6px;
+}
+
+.dataTables_length {
+  padding-top: 5px;
+  padding-right: 20px;
+}
+
+.dt-buttons {
+  margin-bottom: 10px;
+}
